@@ -6,3 +6,6 @@ print("name: ", name)
 print("zipcode: ", zipcode)
 print("is_student: ", is_student)
 
+name = "Kovidh"
+is_student = True
+print("name: ", name)
